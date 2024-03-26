@@ -121,3 +121,9 @@ Copy code
 
 Error Handling
 If an error occurs, the API will respond with an appropriate HTTP status code and an error message in the response body.
+demo
+
+
+
+https://github.com/KanmegneTabouguie/Gestion-inventaire-utilsateur-et-Produits/assets/133702750/fa1e0600-ecd9-4610-9b41-64819e70f2c4
+
